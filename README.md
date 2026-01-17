@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Beril! 👋
 
-<!--
-**berilsilatorun/berilsilatorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science student** at **Vizja University** in Warsaw. 🇵🇱 
+I'm passionate about coding and building modern web applications.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus:
+- 🐍 **Python Mastery:** Currently working through the "100 Days of Code" on Udemy.
+- 🌐 **Web Development:** Mastering HTML & CSS to build responsive websites.
+- 📐 **Academic Projects:** Documenting my Linear Algebra and Economics studies using LaTeX and Markdown.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools:
+- **Languages:** Python, HTML, CSS
+- **Frameworks/Tools:** Git, GitHub, PyCharm, VS Code
+- **Formatting:** LaTeX (for technical documentation)
+
+### 📈 GitHub Stats:
+### 📫 Get in touch:
+- 📍 Based in Warsaw, Poland
+- 🌱 Open to collaborating on beginner-friendly Python and Web projects.
