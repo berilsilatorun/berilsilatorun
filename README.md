@@ -4,7 +4,7 @@ I am a **Computer Science student** at **Vizja University** in Warsaw. 🇵🇱
 I'm passionate about coding and building modern web applications.
 
 ### 🔭 Current Focus:
-- 🐍 **Python Mastery:** Currently working through the "100 Days of Code" on Udemy.
+- 🐍 **Java Mastery:** Currently working through the "100 Days of Code" on Udemy.
 - 🌐 **Web Development:** Mastering HTML & CSS to build responsive websites.
 - 📐 **Academic Projects:** Documenting my Linear Algebra and Economics studies using LaTeX and Markdown.
 
